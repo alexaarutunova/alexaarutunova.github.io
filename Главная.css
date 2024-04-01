@@ -86,12 +86,12 @@
 
 .u-section-2 .u-image-1 {
   min-height: 600px;
-  background-image: url("images/3.png");
-  background-position: 82.52% 50%;
+  background-image: url("images/box1.png");
+  background-position: 36.96% 49.85%;
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 30px 60px;
+  padding: 0;
 }
 
 .u-section-2 .u-layout-cell-2 {
@@ -134,6 +134,7 @@
 
   .u-section-2 .u-image-1 {
     min-height: 495px;
+    background-size: auto 110%;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -148,11 +149,6 @@
 
   .u-section-2 .u-image-1 {
     min-height: 758px;
-  }
-
-  .u-section-2 .u-container-layout-1 {
-    padding-left: 30px;
-    padding-right: 30px;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -172,11 +168,6 @@
 
   .u-section-2 .u-image-1 {
     min-height: 569px;
-  }
-
-  .u-section-2 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
   }
 
   .u-section-2 .u-container-layout-2 {
